@@ -12,3 +12,6 @@ Package contains module 'foo' with a dummy function 'foo(bar)'.
 >>> foo.foo("user input here")
 Function to do something with user input: "user input here"
 ```
+## Distributing with PyPi
+In your virtual environment:
+`pip install twine`
